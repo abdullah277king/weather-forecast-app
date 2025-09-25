@@ -1,4 +1,9 @@
+ HEAD
 # Ignore system folders
 AppData/
 *.pyc
 __pycache__/
+* 
+!app.py 
+!.streamlit/ 
+ d92e8d452bda54e575d4d64c9e7454ac074f797c

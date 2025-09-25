@@ -1,0 +1,4 @@
+# Ignore system folders
+AppData/
+*.pyc
+__pycache__/
